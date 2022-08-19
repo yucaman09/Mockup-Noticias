@@ -22,7 +22,7 @@ const noticias = [
   {
     titulo: "Cómo evitar que se empañen los anteojos al usar barbijo",
     imgUrl:
-      "https://www.infobae.com/newresizer/ORz7JmzOGrdIjerazIGIpwiqOHk=/768x432/filters:format(jpg):quality(85)/cloudfront-us-east1.images.arcpublishing.com/infobae/QVRO3YNJMNGNFP773UOWZYM3FU.jpg",
+      "https://www.infobae.com/new-resizer/RpuYUcEv0cczn75MT9YXlP5xCOI=/1200x800/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/QVRO3YNJMNGNFP773UOWZYM3FU.jpg",
     descripcion:
       "Para quienes utilizan anteojos, la combinación del uso obligatorio de tapabocas desde el año pasado se volvió una complicación. Paso a paso para evitar que se empañen",
     fecha: "01/06/21",
