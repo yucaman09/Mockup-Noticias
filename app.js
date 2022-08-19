@@ -49,3 +49,15 @@ const noticias = [
     tipoNacional: true,
   },
 ];
+
+const contenedor = document.getElementById("contenedor");
+
+function adicionarItems() {
+  noticias.forEach((noticia) => {
+    const template = `<div class="item"><h2>${noticia.titulo}</h2><img src="${noticia.imgUrl}"><h2>${noticia.fecha}</h2><p>${noticia.descripcion}</p></div>`;
+    contenedor.innerHTML += template;
+  });
+}
+
+
+adicionarItems();
